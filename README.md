@@ -1,6 +1,4 @@
 # pyfetch
-![Frame 1](https://github.com/n1d3v/pyfetch/assets/135556230/f151edaf-0dca-419f-adfa-6a64f73fc059)
-
 A better command-line system information tool. Made in Python. (pls if you have a better icon give)
 
 Tested on Ubuntu 22.04.3
