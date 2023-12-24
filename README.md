@@ -23,7 +23,12 @@ cd pyfetch && python3 pyfetch.py
 
 This guide assumes you already have Python installed.
 
-Made mostly for Linux, may work fine on Windows or Mac but haven't tested.
+Works on Linux & Windows
+
+### If your on Windows, make sure to download setuptools through pip
+```
+pip3 install setuptools
+```
 ## Screenshots
 ![image](https://github.com/n1d3v/pyfetch/assets/135556230/bf1f1dee-caf9-4972-b846-f2961b9eb091)
-
+![image](https://i.imgur.com/b3xdhYf.png)
