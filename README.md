@@ -3,7 +3,7 @@ A better command-line system information tool. Made in Python.
 
 Tested on Ubuntu 22.04.3
 ## How to install
-Note: This is a WIP and not done. Please send bug reports if something goes wrong.
+Note: This is a WIP and not done. Stuff such as OS name with not work on other distros for now. Please send bug reports if something goes wrong.
 
 ### Install Deps
 ```python
