@@ -1,5 +1,5 @@
 # pyfetch
-A better command-line system information tool.
+A better command-line system information tool. Made in Python.
 
 ## How to install
 Note: This is a WIP and not done. Please send bug reports if something goes wrong.
