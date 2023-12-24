@@ -25,4 +25,4 @@ This guide assumes you already have Python installed.
 
 Made mostly for Linux, may work fine on Windows or Mac but haven't tested.
 ## Screenshots
-![image](https://github.com/n1d3v/pyfetch/assets/135556230/001e817f-2712-4ac2-b089-ebf81671f868)
+![image](https://github.com/n1d3v/pyfetch/assets/135556230/336b6008-4b31-4648-8152-599238608513)
