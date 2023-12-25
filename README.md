@@ -1,7 +1,7 @@
 ![gh log](https://github.com/n1d3v/pyfetch/assets/135556230/36b37cb0-0023-4ae2-8b3c-27fa7ce2b3db)
 
 ## How to install
-Note: This is a WIP and not done (very close to). Please send bug reports if something goes wrong.
+Note: This is very close to being done so everything may not work as intended. Please send bug reports if something goes wrong.
 
 ### Install Deps
 ```python
