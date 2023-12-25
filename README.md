@@ -1,6 +1,5 @@
 ![gh log](https://github.com/n1d3v/pyfetch/assets/135556230/36b37cb0-0023-4ae2-8b3c-27fa7ce2b3db)
 
-Tested on Ubuntu 22.04.3 and Windows 10
 ## How to install
 Note: This is a WIP and not done (very close to). Please send bug reports if something goes wrong.
 
