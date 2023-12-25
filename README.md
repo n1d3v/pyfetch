@@ -12,13 +12,13 @@ pip3 install psutil gputil
 
 ### Fetch the file
 ```
-git clone https://github.com/n1d3v/pyfetch pyfetch
+git clone https://github.com/n1d3v/pyfetch
 ```
 Note: There will be actual binaries later
 
 ### Run it
 ```
-cd pyfetch && python3 pyfetch.py
+cd pyfetch && python3 main.py
 ```
 
 This guide assumes you already have Python installed.
