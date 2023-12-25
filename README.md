@@ -1,7 +1,7 @@
 # pyfetch
 A better command-line system information tool. Made in Python. (pls if you have a better icon give)
 
-Tested on Ubuntu 22.04.3
+Tested on Ubuntu 22.04.3 and Windows 10
 ## How to install
 Note: This is a WIP and not done (very close to). Please send bug reports if something goes wrong.
 
@@ -23,7 +23,7 @@ cd pyfetch && python3 main.py
 
 This guide assumes you already have Python installed.
 
-Works on Linux & Windows (barely)
+Works on Linux & Windows (now fully on Windows)
 
 ### If your on Windows, make sure to download setuptools through pip
 ```
