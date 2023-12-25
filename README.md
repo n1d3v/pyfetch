@@ -31,3 +31,5 @@ pip3 install setuptools
 ```
 ## Screenshots
 ![image](https://github.com/n1d3v/pyfetch/assets/135556230/bf1f1dee-caf9-4972-b846-f2961b9eb091)
+![image](https://github.com/n1d3v/pyfetch/assets/135556230/5415c1be-9569-471d-b1e8-e4144283bd6e)
+
