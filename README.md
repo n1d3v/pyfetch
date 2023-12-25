@@ -1,5 +1,5 @@
 # pyfetch
-A better command-line system information tool. Made in Python. (pls if you have a better icon give)
+A better command-line system information tool. Made in Python.
 
 Tested on Ubuntu 22.04.3 and Windows 10
 ## How to install
